@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[djn:home|Door43 (djn)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-djn|d43-djn repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-djn/archive/master.zip|d43-djn.zip]]
+
+**Recent Changes**
+{{changes>ns = djn}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/djn|Ethnologue data]]
+
